@@ -1,0 +1,12 @@
+Contoh # 1 contoh konfigurasi Apache
+
+<IfModule mod_php5.c>
+  php_value include_path ".: / usr / local / lib / php"
+  mesin php_admin_flag di
+</ IfModule>
+<IfModule mod_php4.c>
+  php_value include_path ".: / usr / local / lib / php"
+  mesin php_admin_flag di
+</ IfModule>
+Peringatan
+Konstanta PHP tidak ada di luar PHP. Sebagai contoh, di httpd.conf Anda tidak dapat menggunakan konstanta PHP seperti E_ALLatau E_NOTICE untuk mengatur direktif error_reporting karena mereka tidak memiliki arti dan akan mengevaluasi ke 0 . Gunakan nilai bitmask yang terkait. Konstanta ini bisa digunakan di php.ini
