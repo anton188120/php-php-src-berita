@@ -1,0 +1,7 @@
+Changelog ¶
+
+Versi	Deskripsi
+7.0.0	Tanda Hash ( # ) tidak lagi dikenal sebagai komentar.
+5.3.0	Tanda Hash ( # ) seharusnya tidak lagi digunakan sebagai komentar dan akan membuang peringatan penghentian jika digunakan.
+5.2.0	The PHP_INI_SCAN_DIR variabel lingkungan dapat diatur untuk mengesampingkan direktori pemindaian diatur melalui script configure.
+5.1.0	Hal ini dimungkinkan untuk merujuk kepada variabel .ini yang ada dari dalam file .ini.
