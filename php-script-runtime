@@ -1,0 +1,5 @@
+Antarmuka lain ke PHP ¶
+
+Terlepas dari bagaimana Anda menjalankan PHP, Anda dapat mengubah nilai tertentu saat runtime skrip Anda melalui ini_set () . Lihat dokumentasi di halaman ini_set () untuk informasi lebih lanjut.
+
+Jika Anda tertarik dengan daftar lengkap pengaturan konfigurasi pada sistem Anda dengan nilai saat ini, Anda dapat menjalankan fungsi phpinfo () , dan meninjau halaman yang dihasilkan. Anda juga dapat mengakses nilai arahan konfigurasi individual saat runtime menggunakan ini_get () atau get_cfg_var ()
