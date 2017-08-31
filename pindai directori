@@ -1,0 +1,17 @@
+Dengan asumsi PHP dikonfigurasi dengan --with-config-file-scan-dir = / etc / php.d,
+dan bahwa pemisah jalur adalah: ...
+
+$ php
+  PHP akan memuat semua file di /etc/php.d/*.ini sebagai file konfigurasi.
+
+$ PHP_INI_SCAN_DIR = / usr / local / etc / php.d php
+  PHP akan memuat semua file di /usr/local/etc/php.d/*.ini as
+  file konfigurasi
+
+$ PHP_INI_SCAN_DIR =: / usr / local / etc / php.d php
+  PHP akan memuat semua file di /etc/php.d/*.ini, lalu
+  /usr/local/etc/php.d/*.ini sebagai file konfigurasi.
+
+$ PHP_INI_SCAN_DIR = / usr / local / etc / php.d: php
+  PHP akan memuat semua file di /usr/local/etc/php.d/*.ini, lalu
+  /etc/php.d/*.ini sebagai file konfigurasi.
