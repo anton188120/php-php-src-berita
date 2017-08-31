@@ -1,0 +1,13 @@
+.user.ini files ¶
+
+Sejak PHP 5.3.0, PHP menyertakan dukungan untuk konfigurasi file INI pada basis per-direktori. File-file ini hanya diproses oleh CGI / FastCGI SAPI. Fungsi ini menyingkirkan ekstensi PECL htscanner. Jika Anda menjalankan PHP sebagai modul Apache, gunakan file .htaccess untuk efek yang sama.
+
+Selain file php.ini utama , pemindaian PHP untuk file INI di setiap direktori, dimulai dengan direktori file PHP yang diminta, dan bekerja dengan cara sampai ke akar dokumen saat ini (seperti yang ditetapkan pada $ _SERVER ['DOCUMENT_ROOT'] ). Jika file PHP berada di luar akar dokumen, hanya direktori yang dipindai.
+
+Hanya pengaturan INI dengan mode PHP_INI_PERDIRdan PHP_INI_USERakan dikenali di .user.ini-style INI files.
+
+Dua perintah INI yang baru, user_ini.filename dan user_ini.cache_ttl mengontrol penggunaan file pengguna INI.
+
+user_ini.filename menentukan nama file yang dicari PHP di setiap direktori; Jika diset ke string kosong, PHP sama sekali tidak memindai. Defaultnya adalah .user.ini .
+
+user_ini.cache_ttl mengontrol seberapa sering file pengguna INI dibaca ulang. Standarnya adalah 300 detik (5 menit).
