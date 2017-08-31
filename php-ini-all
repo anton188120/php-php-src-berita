@@ -1,0 +1,16 @@
+Saat menggunakan PHP sebagai modul Apache, Anda juga dapat mengubah pengaturan konfigurasi menggunakan perintah di file konfigurasi Apache (misalnya httpd.conf ) dan .htaccess . Anda memerlukan opsi "AllowOverride Options" atau "AllowOverride All" untuk melakukannya.
+
+Ada beberapa perintah Apache yang memungkinkan Anda mengubah konfigurasi PHP dari dalam file konfigurasi Apache. Untuk daftar yang arahan yang PHP_INI_ALL, PHP_INI_PERDIRatau PHP_INI_SYSTEM, lihat di Daftar php.ini arahan lampiran.
+
+php_value name value
+Menetapkan nilai direktif yang ditentukan. Bisa digunakan hanya dengan PHP_INI_ALLdan PHP_INI_PERDIRketik arahan. Untuk menghapus nilai yang telah ditetapkan sebelumnya gunakan tidak ada sebagai nilainya.
+
+Catatan : Jangan gunakan php_valueuntuk mengatur nilai boolean. php_flag(lihat di bawah) harus digunakan sebagai gantinya.
+php_flag name on|off
+Digunakan untuk mengatur direktif konfigurasi boolean. Bisa digunakan hanya dengan PHP_INI_ALLdan PHP_INI_PERDIRketik arahan.
+
+php_admin_value name value
+Menetapkan nilai direktif yang ditentukan. Ini tidak bisa digunakan dalam file .htaccess . Setiap tipe direktif yang disetel php_admin_value tidak bisa diganti oleh .htaccess atau ini_set () . Untuk menghapus nilai yang telah ditetapkan sebelumnya gunakan tidak ada sebagai nilainya.
+
+php_admin_flag name on|off
+Digunakan untuk mengatur direktif konfigurasi boolean. Ini tidak bisa digunakan dalam file .htaccess . Setiap tipe direktif yang disetel php_admin_flag tidak bisa diganti oleh .htaccess atau ini_set () .
