@@ -1,0 +1,172 @@
+Open Software License ("OSL") v 3.0
+
+Lisensi Perangkat Lunak Terbuka ini ("Lisensi") berlaku untuk karya asli manapun
+kepengarangan ("Karya Asli") yang pemiliknya ("Pemberi Lisensi") telah menempatkan
+berikut pemberitahuan lisensi yang bersebelahan dengan pemberitahuan hak cipta untuk Original
+Kerja:
+
+Berlisensi di bawah Open Software License versi 3.0
+
+1) Pemberian Lisensi Hak Cipta. Pemberi Lisensi memberi Anda dana di seluruh dunia, bebas royalti,
+lisensi non-eksklusif dan dapat disublisensikan, untuk durasi hak cipta, yang harus dilakukan
+pengikut:
+
+  a) untuk mereproduksi Karya Asli dalam bentuk salinan, baik sendiri atau sebagai bagian dari a
+  pekerjaan kolektif;
+
+  b) menerjemahkan, mengadaptasi, mengubah, mengubah, memodifikasi, atau mengatur yang asli
+  Bekerja, sehingga menciptakan karya turunan ("Karya Derivatif") berdasarkan
+  Pekerjaan Asli;
+
+  c) mendistribusikan atau mengkomunikasikan salinan Karya Asli dan Derivatif
+  Bekerja untuk umum, dengan syarat salinan Karya Asli atau
+  Karya Derivatif yang Anda distribusikan atau komunikasikan harus dilisensikan di bawah
+  Lisensi Perangkat Lunak Terbuka ini;
+
+  d) melakukan Karya Asli untuk publik; dan
+
+  e) untuk menampilkan Karya Asli untuk umum.
+
+2) Pemberian Izin Paten. Pemberi Lisensi memberi Anda dana di seluruh dunia, bebas royalti,
+lisensi tidak eksklusif dan dapat disublisensikan, di bawah klaim paten yang dimiliki atau dikendalikan
+oleh Pemberi Lisensi yang diwujudkan dalam Karya Asli yang dilengkapi oleh
+Pemberi Lisensi, selama masa paten, untuk membuat, menggunakan, menjual, menawarkan penjualan,
+telah membuat, dan mengimpor Karya Asli dan Karya Derivatif.
+
+3) Pemberian Lisensi Kode Sumber. Istilah "Source Code" berarti pilihan
+bentuk Karya Asli untuk melakukan modifikasi terhadapnya dan semua yang tersedia
+dokumentasi yang menjelaskan cara memodifikasi Karya Asli. Pemberi Lisensi menyetujui
+berikan salinan Kode Sumber Karya Karya yang dapat dibaca oleh mesin
+dengan setiap salinan Karya Asli yang didistribusikan oleh Pemberi Lisensi. Perizinan
+berhak untuk memenuhi kewajiban ini dengan menempatkan mesin yang mudah dibaca
+salinan Kode Sumber dalam repositori informasi yang diperhitungkan secara wajar
+Izinkan akses yang murah dan nyaman oleh Anda selama Pemberi Lisensi
+terus mendistribusikan Karya Asli.
+
+4) Pengecualian Dari Lisensi Hibah. Baik nama Pemberi Lisensi maupun nama
+dari kontributor Karya Asli manapun, atau merek dagang mereka atau
+tanda layanan, dapat digunakan untuk mendukung atau mempromosikan produk yang berasal dari ini
+Karya Asli tanpa izin sebelumnya dari Pemberi Lisensi. Kecuali sebagai
+Dengan tegas disebutkan di sini, tidak ada Lisensi yang memberikan lisensi ini
+Merek dagang, hak cipta, hak paten, rahasia dagang atau merek lisensi lainnya
+hak milik intelektual. Tidak ada lisensi paten yang diberikan untuk membuat, menggunakan, menjual, menawarkan
+untuk dijual, telah membuat, atau mengimpor perwujudan klaim paten selain dari
+klaim berlisensi yang didefinisikan di Bagian 2. Tidak ada lisensi yang diberikan kepada merek dagang
+dari Pemberi Lisensi meskipun tanda tersebut termasuk dalam Karya Asli. Tidak ada
+Lisensi ini harus ditafsirkan untuk melarang Pemberi Lisensi dari perizinan di bawah
+Istilah yang berbeda dari Lisensi ini ada Karya Asli yang Licensor sebaliknya
+akan memiliki hak untuk melisensikan.
+
+5) Penyebaran Eksternal. Istilah "Penerapan Eksternal" berarti penggunaan,
+distribusi, atau komunikasi Karya Asli atau Karya Derivatif dalam bentuk apapun
+sehingga Karya Asli atau Karya Derivatif dapat digunakan oleh siapa saja
+selain Anda, apakah karya tersebut didistribusikan atau dikomunikasikan kepada mereka
+orang atau tersedia sebagai aplikasi yang ditujukan untuk penggunaan melalui jaringan.
+Sebagai syarat ekspres untuk pemberian lisensi di bawah ini, Anda harus memperlakukannya
+Penyebaran Eksternal oleh Anda dari Karya Asli atau Karya Derivatif sebagai a
+distribusi di bawah bagian 1 (c).
+
+6) Hak Pengesahan. Anda harus menyimpannya, dalam Kode Sumber dari Derivatif apapun
+Pekerjaan yang Anda buat, semua hak cipta, hak paten, atau pemberitahuan merek dagang dari
+Kode Sumber Karya Asli, serta pemberitahuan perizinan dan apapun
+teks deskriptif yang diidentifikasi di dalamnya sebagai "Pemberitahuan Atribusi." Anda harus menyebabkan
+Kode Sumber untuk Karya Derivatif apa pun yang Anda buat untuk membawa yang menonjol
+Pemberitahuan Atribusi cukup diperhitungkan untuk menginformasikan kepada penerima yang Anda miliki
+memodifikasi Karya Asli.
+
+7) Garansi Pemberian Jaminan dan Penafian Jaminan. Pemberi lisensi menjamin itu
+hak cipta dalam dan terhadap Karya Asli dan hak paten yang diberikan di sini
+oleh Pemberi Lisensi dimiliki oleh Pemberi Lisensi atau disublisensikan kepada Anda di bawah lisensi
+ketentuan Lisensi ini dengan izin kontributor dari mereka
+hak cipta dan hak paten. Kecuali dengan tegas dinyatakan dalam waktu segera
+kalimat sebelumnya, Karya Asli diberikan berdasarkan Lisensi ini pada "AS
+IS "DASAR DAN TANPA JAMINAN, baik tersurat maupun tersirat, termasuk, tanpa
+pembatasan, jaminan tidak melanggar, dapat diperjualbelikan atau kesesuaian untuk
+tujuan tertentu SELURUH RESIKO SEBAGAI KUALITAS KERJA ASLI
+IS DENGAN ANDA PENAFIAN JAMINAN ini merupakan bagian penting dari hal ini
+Lisensi. Tidak ada lisensi untuk Karya Asli yang diberikan oleh Lisensi ini kecuali
+di bawah disclaimer ini.
+
+8) Batasan Tanggung Jawab. Dalam situasi apapun dan tanpa teori hukum,
+apakah dalam tort (termasuk kelalaian), kontrak, atau sebaliknya, akan
+Pemberi Lisensi bertanggung jawab kepada siapapun secara tidak langsung, khusus, insidental, atau
+kerusakan konsekuensial dari setiap karakter yang timbul sebagai akibat dari Lisensi ini atau
+penggunaan Karya Asli termasuk, namun tidak terbatas, kerugian karena kerugian
+niat baik, penghentian kerja, kegagalan komputer atau kerusakan, atau apapun dan semua
+Kerugian atau kerugian komersial lainnya. Keterbatasan tanggung jawab ini tidak seharusnya
+berlaku sejauh undang-undang yang berlaku melarang pembatasan tersebut.
+
+9) Penerimaan dan Penghentian. Jika, setiap saat, Anda dengan tegas menyetujui hal ini
+Lisensi, persetujuan tersebut menunjukkan penerimaan Anda yang jelas dan tidak dapat dibatalkan mengenai hal ini
+Lisensi dan semua syarat dan ketentuannya. Jika Anda mendistribusikan atau berkomunikasi
+salinan Karya Asli atau Karya Derivatif, Anda harus membuat yang masuk akal
+usaha dalam keadaan untuk mendapatkan persetujuan dari penerima
+persyaratan dari Lisensi ini. Lisensi ini menjamin hak Anda untuk melakukan
+kegiatan yang tercantum dalam Bagian 1, termasuk hak Anda untuk menciptakan Derivatif
+Bekerja berdasarkan Karya Asli, dan melakukannya tanpa menghormati persyaratan ini
+dan kondisi dilarang oleh undang-undang hak cipta dan perjanjian internasional.
+Tidak ada dalam Lisensi ini yang dimaksudkan untuk mempengaruhi pengecualian hak cipta dan
+keterbatasan (termasuk "penggunaan wajar" atau "transaksi wajar"). Lisensi ini harus
+segera berhenti dan Anda mungkin tidak lagi menggunakan hak yang diberikan
+kepada Anda dengan Lisensi ini atas kegagalan Anda untuk menghormati kondisi di Bagian
+1 (c).
+
+10) Penghentian untuk Tindakan Paten. Lisensi ini akan berakhir secara otomatis
+dan Anda mungkin tidak lagi menggunakan hak yang diberikan kepada Anda dengan ini
+Lisensi pada tanggal Anda memulai sebuah tindakan, termasuk klaim silang atau
+menolak, melawan Pemberi Lisensi atau pemegang lisensi yang menuduh bahwa Karya Asli
+melanggar hak paten Ketentuan penghentian ini tidak berlaku untuk tindakan
+menuduh pelanggaran paten dengan kombinasi Karya Asli dengan yang lainnya
+perangkat lunak atau perangkat keras.
+
+11) Yurisdiksi, Tempat dan Hukum Pemerintahan. Setiap tindakan atau tuntutan yang berkaitan dengan ini
+Lisensi dapat diajukan hanya di pengadilan yurisdiksi dimana
+Pemberi Lisensi tinggal atau di mana Pemberi Lisensi melakukan bisnis utamanya, dan di bawahnya
+hukum yurisdiksi tersebut tidak termasuk ketentuan konflik hukumnya. Itu
+Penerapan Konvensi Perserikatan Bangsa-Bangsa tentang Kontrak untuk
+Penjualan Barang Internasional secara tegas dikecualikan. Penggunaan apapun dari Original
+Bekerja di luar lingkup Lisensi ini atau setelah penghentiannya
+tunduk pada persyaratan dan denda hak cipta atau hukum paten di
+yurisdiksi yang sesuai Bagian ini akan bertahan dalam penghentian ini
+Lisensi.
+
+12) Biaya Pengacara. Dalam tindakan apa pun untuk menerapkan persyaratan Lisensi ini atau
+mencari ganti rugi yang berkaitan dengannya, partai yang berlaku berhak
+memulihkan biaya dan pengeluarannya, termasuk, namun tidak terbatas, masuk akal
+biaya dan biaya pengacara yang dikeluarkan sehubungan dengan tindakan tersebut, termasuk
+daya tarik apapun dari tindakan tersebut. Bagian ini akan bertahan dalam penghentian ini
+Lisensi.
+
+13) Miscellaneous. Jika ada ketentuan Lisensi ini yang berlaku
+tidak dapat diberlakukan, ketentuan semacam itu harus direformasi sejauh yang diperlukan
+untuk membuatnya dapat dilaksanakan.
+
+14) Definisi "Anda" dalam Lisensi ini. "Anda" sepanjang Lisensi ini,
+apakah dalam huruf besar atau huruf kecil, berarti individu atau badan hukum
+menjalankan hak di bawah, dan mematuhi semua persyaratan, Lisensi ini.
+Untuk badan hukum, "Anda" mencakup entitas yang mengendalikan, dikendalikan oleh,
+atau berada di bawah kendali bersama dengan Anda. Untuk tujuan definisi ini,
+"kontrol" berarti (i) kekuatan, langsung atau tidak langsung, untuk menyebabkan arah atau
+pengelolaan entitas tersebut, baik dengan kontrak atau lainnya, atau (ii) kepemilikan
+dari lima puluh persen (50%) atau lebih dari saham yang beredar, atau (iii) menguntungkan
+kepemilikan entitas tersebut
+
+15) Hak Penggunaan. Anda bisa menggunakan Karya Asli dengan segala cara, bukan sebaliknya
+dibatasi atau dikondisikan oleh Lisensi ini atau oleh undang-undang, dan Pemberi Lisensi tidak berjanji
+untuk mengganggu atau bertanggung jawab atas penggunaan tersebut oleh Anda.
+
+16) Modifikasi Lisensi Ini. Lisensi ini adalah Hak Cipta © 2005 Lawrence
+Rosen. Izin diberikan untuk menyalin, mendistribusikan, atau mengkomunikasikan Lisensi ini
+Tanpa modifikasi Tidak ada dalam Lisensi ini yang mengizinkan Anda untuk memodifikasi ini
+Lisensi sebagaimana diterapkan pada Karya Asli atau Karya Derivatif. Namun, Anda
+dapat mengubah teks dari Lisensi ini dan menyalin, mendistribusikan atau mengkomunikasikan
+versi modifikasi ("Modifikasi Lisensi") dan menerapkannya pada karya asli lainnya
+dari kepengarangan tunduk pada kondisi berikut: (i) Anda mungkin tidak menunjukkannya
+dengan cara apapun bahwa Modified License Anda adalah "Open Software License" atau "OSL" dan
+Anda mungkin tidak menggunakan nama tersebut atas nama Lisensi Modifikasi Anda; (ii) Anda
+harus mengganti pemberitahuan yang ditentukan pada paragraf pertama di atas dengan pemberitahuan
+"Berlisensi di bawah <masukkan nama lisensi Anda di sini>" atau dengan pemberitahuan Anda sendiri
+itu tidak membingungkan mirip dengan pemberitahuan dalam Lisensi ini; dan (iii) Anda
+mungkin tidak mengklaim bahwa karya asli Anda adalah perangkat lunak sumber terbuka kecuali Anda
+Modified License telah disetujui oleh Open Source Initiative (OSI) dan You
+mematuhi proses review dan sertifikasi lisensinya.
