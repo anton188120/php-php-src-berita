@@ -1,0 +1,7 @@
+Pindai direktori ¶
+
+Hal ini dimungkinkan untuk mengkonfigurasi PHP untuk memindai file .ini dalam direktori setelah membaca php.ini . Ini bisa dilakukan pada waktu kompilasi dengan mengatur opsi --with-config-file-scan-dir . Di PHP 5.2.0 dan yang lebih baru, direktori pemindaian kemudian dapat diganti pada waktu berjalan dengan menetapkan variabel lingkungan PHP_INI_SCAN_DIR .
+
+Hal ini dimungkinkan untuk memindai beberapa direktori dengan memisahkannya dengan pemisah jalur khusus platform ( ; pada Windows, NetWare dan RISC OS; : pada semua platform lainnya; nilai PHP menggunakan tersedia sebagai PATH_SEPARATORkonstan). Jika sebuah direktori kosong diberikan di PHP_INI_SCAN_DIR , PHP juga akan memindai direktori yang diberikan pada waktu kompilasi melalui --with-config-file-scan-dir .
+
+Dalam setiap direktori, PHP akan memindai semua file yang berakhiran .ini dalam urutan abjad. Daftar file yang dimuat, dan sesuai urutannya, tersedia dengan memanggil php_ini_scanned_files () , atau dengan menjalankan PHP dengan opsi --ini .
